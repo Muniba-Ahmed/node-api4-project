@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/Muniba-Ahmed/node-api4-project/issues"
   },
-  "homepage": "https://github.com/Muniba-Ahmed/node-api4-project#readme"
+  "homepage": "https://github.com/Muniba-Ahmed/node-api4-project#readme",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
 }
